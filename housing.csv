@@ -1,0 +1,144 @@
+Housing
+Estimate; HOUSING OCCUPANCY - Total housing units
+Estimate; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+Estimate; HOUSING OCCUPANCY - Total housing units - Vacant housing units
+Estimate; HOUSING OCCUPANCY - Homeowner vacancy rate
+Estimate; HOUSING OCCUPANCY - Rental vacancy rate
+Estimate; UNITS IN STRUCTURE - Total housing units
+Estimate; UNITS IN STRUCTURE - Total housing units - 1-unit, detached
+Estimate; UNITS IN STRUCTURE - Total housing units - 1-unit, attached
+Estimate; UNITS IN STRUCTURE - Total housing units - 2 units
+Estimate; UNITS IN STRUCTURE - Total housing units - 3 or 4 units
+Estimate; UNITS IN STRUCTURE - Total housing units - 5 to 9 units
+Estimate; UNITS IN STRUCTURE - Total housing units - 10 to 19 units
+Estimate; UNITS IN STRUCTURE - Total housing units - 20 or more units
+Estimate; UNITS IN STRUCTURE - Total housing units - Mobile home
+Estimate; UNITS IN STRUCTURE - Total housing units - Boat, RV, van, etc.
+Estimate; YEAR STRUCTURE BUILT - Total housing units
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 2014 or later
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 2010 to 2013
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 2000 to 2009
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1990 to 1999
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1980 to 1989
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1970 to 1979
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1960 to 1969
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1950 to 1959
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1940 to 1949
+Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1939 or earlier
+Estimate; ROOMS - Total housing units
+Estimate; ROOMS - Total housing units - 1 room
+Estimate; ROOMS - Total housing units - 2 rooms
+Estimate; ROOMS - Total housing units - 3 rooms
+Estimate; ROOMS - Total housing units - 4 rooms
+Estimate; ROOMS - Total housing units - 5 rooms
+Estimate; ROOMS - Total housing units - 6 rooms
+Estimate; ROOMS - Total housing units - 7 rooms
+Estimate; ROOMS - Total housing units - 8 rooms
+Estimate; ROOMS - Total housing units - 9 rooms or more
+Estimate; ROOMS - Total housing units - Median rooms
+Estimate; BEDROOMS - Total housing units
+Estimate; BEDROOMS - Total housing units - No bedroom
+Estimate; BEDROOMS - Total housing units - 1 bedroom
+Estimate; BEDROOMS - Total housing units - 2 bedrooms
+Estimate; BEDROOMS - Total housing units - 3 bedrooms
+Estimate; BEDROOMS - Total housing units - 4 bedrooms
+Estimate; BEDROOMS - Total housing units - 5 or more bedrooms
+Estimate; HOUSING TENURE - Occupied housing units
+Estimate; HOUSING TENURE - Occupied housing units - Owner-occupied
+Estimate; HOUSING TENURE - Occupied housing units - Renter-occupied
+Estimate; HOUSING TENURE - Average household size of owner-occupied unit
+Estimate; HOUSING TENURE - Average household size of renter-occupied unit
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2015 or later
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2010 to 2014
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2000 to 2009
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1990 to 1999
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1980 to 1989
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1979 and earlier
+Estimate; VEHICLES AVAILABLE - Occupied housing units
+Estimate; VEHICLES AVAILABLE - Occupied housing units - No vehicles available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 1 vehicle available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 2 vehicles available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 3 or more vehicles available
+Estimate; HOUSE HEATING FUEL - Occupied housing units
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Utility gas
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Bottled, tank, or LP gas
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Electricity
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Fuel oil, kerosene, etc.
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Coal or coke
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Wood
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Solar energy
+Estimate; HOUSE HEATING FUEL - Occupied housing units - Other fuel
+Estimate; HOUSE HEATING FUEL - Occupied housing units - No fuel used
+Estimate; SELECTED CHARACTERISTICS - Occupied housing units
+Estimate; SELECTED CHARACTERISTICS - Occupied housing units - Lacking complete plumbing facilities
+Estimate; SELECTED CHARACTERISTICS - Occupied housing units - Lacking complete kitchen facilities
+Estimate; SELECTED CHARACTERISTICS - Occupied housing units - No telephone service available
+Estimate; OCCUPANTS PER ROOM - Occupied housing units
+Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.00 or less
+Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.01 to 1.50
+Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.51 or more
+Estimate; VALUE - Owner-occupied units
+Estimate; VALUE - Owner-occupied units - Less than $50,000
+Estimate; VALUE - Owner-occupied units - $50,000 to $99,999
+Estimate; VALUE - Owner-occupied units - $100,000 to $149,999
+Estimate; VALUE - Owner-occupied units - $150,000 to $199,999
+Estimate; VALUE - Owner-occupied units - $200,000 to $299,999
+Estimate; VALUE - Owner-occupied units - $300,000 to $499,999
+Estimate; VALUE - Owner-occupied units - $500,000 to $999,999
+Estimate; VALUE - Owner-occupied units - $1,000,000 or more
+Estimate; VALUE - Owner-occupied units - Median (dollars)
+Estimate; MORTGAGE STATUS - Owner-occupied units
+Estimate; MORTGAGE STATUS - Owner-occupied units - Housing units with a mortgage
+Estimate; MORTGAGE STATUS - Owner-occupied units - Housing units without a mortgage
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - Less than $500
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $500 to $999
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $1,000 to $1,499
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $1,500 to $1,999
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $2,000 to $2,499
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $2,500 to $2,999
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $3,000 or more
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - Median (dollars)
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - Less than $250
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $250 to $399
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $400 to $599
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $600 to $799
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $800 to $999
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $1,000 or more
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - Median (dollars)
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 20.0 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Not computed
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 10.0 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 10.0 to 14.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 15.0 to 19.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Not computed
+Estimate; GROSS RENT - Occupied units paying rent
+Estimate; GROSS RENT - Occupied units paying rent - Less than $500
+Estimate; GROSS RENT - Occupied units paying rent - $500 to $999
+Estimate; GROSS RENT - Occupied units paying rent - $1,000 to $1,499
+Estimate; GROSS RENT - Occupied units paying rent - $1,500 to $1,999
+Estimate; GROSS RENT - Occupied units paying rent - $2,000 to $2,499
+Estimate; GROSS RENT - Occupied units paying rent - $2,500 to $2,999
+Estimate; GROSS RENT - Occupied units paying rent - $3,000 or more
+Estimate; GROSS RENT - Occupied units paying rent - Median (dollars)
+Estimate; GROSS RENT - No rent paid
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed)
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - Less than 15.0 percent
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 15.0 to 19.9 percent
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 20.0 to 24.9 percent
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 25.0 to 29.9 percent
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 30.0 to 34.9 percent
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 35.0 percent or more
+Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Not computed
